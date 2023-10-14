@@ -13,3 +13,22 @@
 
 1. [Массивы одномерные](2_Arrays/1_One_dimensional_array.md)
 2. [Массивы многомерные](2_Arrays/2_The_array_is_multidimensional.md)
+
+## 3. Основы ООП
+
+1. Модификаторы доступа, наследование (тренажёр)
+2. [Полиморфизм](3_OOP_basics/2_Polymorphism.md)
+3. [Абстракции и интерфейс](3_OOP_basics/3_Abstractions_and_interfaces.md)
+4. [Исключения, Stacktrace](3_OOP_basics/4_Exceptions_Stacktrace.md)
+
+## 4. InMemory хранение данных — коллекции
+
+1. Generics в коллекциях и методах (тренажёр)
+2. [Коллекции List](4_Collections/2_Collections_List.md)
+3. [Коллекция HashMap и HashSet](4_Collections/3_Collections_HashMap_and_HashSet.md)
+4. Коллекции Treemap и TreeSet (тренажёр)
+5. [Коллекции Queue](4_Collections/5_Collections_Queue.md)
+
+## Курсовая работа
+
+[Курсовой проект: Конвертер в текстовую графику]()
