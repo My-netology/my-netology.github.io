@@ -32,3 +32,15 @@
 ## Курсовая работа
 
 [Курсовой проект: Конвертер в текстовую графику](https://github.com/My-netology/converter-pic-to-txt)
+
+## 5. Алгоритмы и структуры данных
+
+1. [Введение в алгоритмическую сложность. Бинпоиск](5_Algo/1_Binary_search.md)
+2. [Рекурсия](5_Algo/2_Recursion.md)
+3. [Сортировки](5_Algo/3_Sorting.md)
+4. [Динамический массив, списки, деки](5_Algo/4_Dynamic_array.md)
+5. [Пирамиды и деревья поиска](5_Algo/5_Pyramids_and_search_trees.md)
+6. [Таблицы](5_Algo/6_Tables.md)
+7. [Графы](5_Algo/7_Graphs.md)
+8. [Орграфы](5_Algo/8_Directed_graphs.md)
+
