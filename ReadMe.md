@@ -13,5 +13,3 @@
 
 1. [Массивы одномерные](2_Arrays/1_One_dimensional_array.md)
 2. [Массивы многомерные](2_Arrays/2_The_array_is_multidimensional.md)
-
-## 3. Что-то
