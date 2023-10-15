@@ -54,8 +54,8 @@
 
 ## 7. Тестирование программы
 
-1. [Тестирование кода и Unit-тесты](7_Tests/1_Unit.md)
-2. [Mockito. Мокирование вызовов, Mock, Stub](7_Tests/2_Mockito.md)
+1. [Тестирование кода и Unit-тесты](7_Tests/1_Unit/1_Unit.md)
+2. [Mockito. Мокирование вызовов, Mock, Stub](7_Tests/2_Mockito/2_Mockito.md)
 
 ## 8. Работа с сетью
 
