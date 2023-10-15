@@ -50,7 +50,7 @@
 2. [Stream API. Потоки, повторные вызовы, основные методы](6_Streams/2_Streams/2_Streams.md)
 3. [Потоки ввода-вывода. Работа с файлами. Сериализация](6_Streams/3_InOut/3_InOut.md)
 4. [Сборка проектов. Maven и Gradle](6_Streams/4_Build_project/4_Build_project.md)
-5. [Работа с файлами CSV, XML, JSON](6_Streams/5_SpecFiles.md)
+5. [Работа с файлами CSV, XML, JSON](6_Streams/5_SpecFiles/5_SpecFiles.md)
 
 ## 7. Тестирование программы
 
