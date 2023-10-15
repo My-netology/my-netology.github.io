@@ -49,7 +49,7 @@
 1. [Функциональное программирование и лямбда-выражения](6_Streams/1_Func/1_Func.md)
 2. [Stream API. Потоки, повторные вызовы, основные методы](6_Streams/2_Streams/2_Streams.md)
 3. [Потоки ввода-вывода. Работа с файлами. Сериализация](6_Streams/3_InOut/3_InOut.md)
-4. [Сборка проектов. Maven и Gradle](6_Streams/4_Build_project.md)
+4. [Сборка проектов. Maven и Gradle](6_Streams/4_Build_project/4_Build_project.md)
 5. [Работа с файлами CSV, XML, JSON](6_Streams/5_SpecFiles.md)
 
 ## 7. Тестирование программы
